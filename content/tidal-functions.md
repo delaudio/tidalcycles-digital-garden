@@ -1,6 +1,6 @@
 ---
-title: 'All functions'
-metaTitle: 'All functions'
+title: 'Tidal functions'
+metaTitle: 'Tidal functions'
 metaDescription: 'Tidalcycles functions'
 ---
 
