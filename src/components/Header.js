@@ -111,7 +111,7 @@ const Header = ({ location, isDarkThemeActive, toggleActiveTheme }) => (
                 />
               </Link> */}
               <a style={{ color: 'white' }} href="/">
-                TidalCycles Docs
+                TidalCycles Digital Garden
               </a>
               {/* <div
                 className={'headerTitle displayInline'}
