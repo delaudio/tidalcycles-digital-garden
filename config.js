@@ -44,7 +44,7 @@ const config = {
     collapsedNav: [
       '/codeblock', // add trailing slash if enabled above
     ],
-    links: [{ text: 'Tidal official docs', link: 'https://tidalcycles.org/userbase' }],
+    links: [{ text: 'Tidal official docs', link: 'https://tidalcycles.org/Userbase' }],
     frontline: false,
     ignoreIndex: true,
     title:
